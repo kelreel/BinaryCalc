@@ -1,0 +1,53 @@
+.main {
+    margin: 20px 20px 20px 20px;
+}
+
+.verticalform {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    align-content: center;
+    background: #fff;
+    padding: 10px;
+    border: solid black 1px;
+    border-radius: 5px;
+}
+
+.button1 {
+    display: inline-block;
+    background: #ffffff;
+    color: #000000;
+    font-weight: 600;
+    text-decoration: none;
+    user-select: none;
+    padding: .5em 2em;
+    outline: none;
+    border: 1px solid;
+    border-radius: 1px;
+    border-color: #000000;
+    transition: 0.3s;
+    padding-top: 10px;
+}
+
+.fullinput {
+    width: 85%;
+    height: 35px !important;
+    line-height: 1.8em !important;
+    padding-left: 4px;
+    border: none;
+    border: solid 1px #ccc;
+    border-radius: 1px;
+    outline: none;
+}
+
+.col-form-label {
+    word-wrap: normal;
+    white-space: nowrap;
+}
+
+@media all and (max-width: 768px) {
+    .verticalform {
+        padding: 10px;
+    }
+}
