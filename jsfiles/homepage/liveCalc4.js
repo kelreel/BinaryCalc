@@ -58,5 +58,3 @@ function Convert (number, fromBase, toBase) {
         return result;
     }
 }
-
-//str.replace(/(\d)(?=(\d{4})+(\D|$))/g, '$1 ')

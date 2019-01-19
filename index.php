@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="./style/style.css">
     <link rel="shortcut icon" href="./style/favicon.ico">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <meta property="fb:admins" content="100005344682977"/>
     <title>Online Number Converter | Decimal to Binary, hex and octal </title>
     <meta name="description" content ="Online calculator and number convertor to all base. Binary, decimal, hex, octal converting.">
 </head>
@@ -81,6 +82,24 @@
                         <center><button type="submit" id="button2" class="btn btn-outline-dark">Enter!</button></center>
                     </form>
                 </div>
+
+                <div class="addthis_inline_share_toolbox share"></div>
+            
+                <div class="row">
+                    <div class="col-12 col-md-8 align-self-center info-text">
+                        <p>Anyone faced with the number system. For example, in computer science, mathematics, programming, etc. Sometimes you need to quickly transfer a number from one number system to another.
+                        </p>
+                        <p>You can do this on this online calculator of number systems. Here you can instantly convert numbers without reloading the page into any number system with any base.
+                        </p>
+                        <p>On the left, you can instantly convert decimal, binary, octal and hexadecimal numbers.
+                        </p>
+                        <p>On the right side, you can convert numbers from any system to the desired one with a given base.
+                        </p>
+                        <p>Try it now! 
+                        </p>
+                    </div>
+                </div>
+
     </div>
 
 </body>
